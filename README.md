@@ -1,4 +1,4 @@
-# TicketBud
+# Ticket-Bud
 
 ## Support Application for tracking issues
 
